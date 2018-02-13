@@ -1,6 +1,6 @@
 # Sprint 0
 **Getting Started:**
-This repo is to introduce the team members contributing to this component (C5) in sprint 0. 
+This repo is to introduce the team members contributing to component (C5) in sprint 0. 
 This includes their names and IDs as well as their interests.
 
 **Authors:**
