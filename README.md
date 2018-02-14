@@ -1,4 +1,4 @@
-# Sprint 0
+# Sprint Zero
 **Getting Started:**
 This repo is to introduce the team members contributing to this component in sprint 0. 
 This includes their names and IDs as well as their interests.
