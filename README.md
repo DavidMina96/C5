@@ -20,5 +20,3 @@ My name is David. I am interested in web development and apart from the academic
 My name is Nadeen . I like reading and listening to music .
 My name is Shady . I like to play ping pong .
 My name is Ahmed . I like to play Tennis.
-
- 
